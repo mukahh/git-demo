@@ -1,2 +1,7 @@
-Hello Git!
+Hello, Git Hub!
 My first repository
+
+
+Bye bye 
+Everyone
+
